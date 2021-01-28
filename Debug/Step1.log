@@ -1,0 +1,9 @@
+﻿  Animal.cpp
+  Cat.cpp
+  Chicken.cpp
+  Cow.cpp
+  Farm.cpp
+  Step1.cpp
+  Generating Code...
+C:\Users\abbes\OneDrive\Desktop\fall 2020\cse work\Implemented Projects\Farm\Cat.cpp(132): warning C4715: 'CCat::IsHairy': not all control paths return a value
+  Step1.vcxproj -> C:\Users\abbes\OneDrive\Desktop\fall 2020\cse work\Implemented Projects\Farm\Debug\Step1.exe
